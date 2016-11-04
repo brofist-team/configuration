@@ -1,0 +1,23 @@
+{
+    "name": "brofist/configuration",
+    "description": "Handles merging of configurations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brofist",
+            "email": "brofist@goodgamestudios.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4"
+    },
+    "require-dev": {
+        "satooshi/php-coveralls": "~1.0.0",
+        "phpunit/phpunit": "~4.8.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "Brofist\\Configuration\\": "src/"
+        }
+    }
+}
