@@ -25,7 +25,43 @@ Package information:
 
 
 ```php
-// some code example?
+<?php
+
+use Brofist\Configuration\Configuration;
+
+$development = new Configuration([
+    'env'   => 'development',
+    'admin' => [
+        'name'       => 'John',
+        'middleName' => 'Some Middle Name',
+    ],
+]);
+
+$production = new Configuration([
+    'env'   => 'production',
+    'admin' => [
+        'name'     => 'Other Name',
+        'lastName' => 'John',
+    ],
+]);
+
+$application = $development->merge($production);
+
+$application->toArray();
+
+// will return
+
+[
+    // replaces when it is not an array
+    'env'   => 'production',
+
+    // merges when it is an array, replacing when necessary
+    'admin' => [
+        'name'       => 'Other Name',
+        'middleName' => 'Some Middle Name',
+        'lastName'   => 'John',
+    ],
+];
 ```
 
 ## Installing
