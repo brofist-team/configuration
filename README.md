@@ -9,17 +9,18 @@ Code information:
 [![Coverage Status](https://coveralls.io/repos/brofist-team/configuration/badge.png?branch=master)](https://coveralls.io/r/brofist-team/configuration?branch=master)
 [![Code Coverage Scrutinizer](https://scrutinizer-ci.com/g/brofist-team/configuration/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/brofist-team/configuration/?branch=master)
 [![Code Climate](https://codeclimate.com/github/brofist-team/configuration/badges/gpa.svg)](https://codeclimate.com/github/brofist-team/configuration)
+[![Issue Count](https://codeclimate.com/github/brofist-team/configuration/badges/issue_count.svg)](https://codeclimate.com/github/brofist-team/configuration)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brofist-team/configuration/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brofist-team/configuration/?branch=master)
 [![StyleCI](https://styleci.io/repos/{style_ci_id}/shield)](https://styleci.io/repos/{style_ci_id})
 
 Package information:
 
-[![Latest Stable Version](https://poser.pugx.org/brofist/configuration/v/stable.svg)](https://packagist.org/packages/brofist/configuration)
-[![Total Downloads](https://poser.pugx.org/brofist/configuration/downloads.svg)](https://packagist.org/packages/brofist/configuration)
+[![Latest Stable Version](https://poser.pugx.org/brofist/configuration/v/stable)](https://packagist.org/packages/brofist/configuration)
+[![Total Downloads](https://poser.pugx.org/brofist/configuration/downloads)](https://packagist.org/packages/brofist/configuration)
 [![Latest Unstable Version](https://poser.pugx.org/brofist/configuration/v/unstable.svg)](https://packagist.org/packages/brofist/configuration)
-[![License](https://poser.pugx.org/brofist/configuration/license.svg)](https://packagist.org/packages/brofist/configuration)
-[![Dependency Status](https://gemnasium.com/brofist/configuration.png)](https://gemnasium.com/brofist/configuration)
-
+[![License](https://poser.pugx.org/brofist/configuration/license)](https://packagist.org/packages/brofist/configuration)
+[![Dependency Status](https://gemnasium.com/badges/github.com/brofist-team/configuration.svg)](https://gemnasium.com/github.com/brofist-team/configuration)
+[![composer.lock](https://poser.pugx.org/brofist/configuration/composerlock)](https://packagist.org/packages/brofist/configuration)
 
 ## Usage
 
