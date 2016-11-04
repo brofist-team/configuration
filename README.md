@@ -8,7 +8,7 @@ Code information:
 [![Build Status](https://travis-ci.org/brofist-team/configuration.png?branch=master)](https://travis-ci.org/brofist-team/configuration)
 [![Coverage Status](https://coveralls.io/repos/brofist-team/configuration/badge.png?branch=master)](https://coveralls.io/r/brofist-team/configuration?branch=master)
 [![Code Coverage Scrutinizer](https://scrutinizer-ci.com/g/brofist-team/configuration/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/brofist-team/configuration/?branch=master)
-[![Code Climate](https://codeclimate.com/github/brofist-team/configuration.png)](https://codeclimate.com/github/brofist-team/configuration)
+[![Code Climate](https://codeclimate.com/github/brofist-team/configuration/badges/gpa.svg)](https://codeclimate.com/github/brofist-team/configuration)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brofist-team/configuration/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brofist-team/configuration/?branch=master)
 [![StyleCI](https://styleci.io/repos/{style_ci_id}/shield)](https://styleci.io/repos/{style_ci_id})
 
