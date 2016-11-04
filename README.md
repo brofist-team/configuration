@@ -11,7 +11,7 @@ Code information:
 [![Code Climate](https://codeclimate.com/github/brofist-team/configuration/badges/gpa.svg)](https://codeclimate.com/github/brofist-team/configuration)
 [![Issue Count](https://codeclimate.com/github/brofist-team/configuration/badges/issue_count.svg)](https://codeclimate.com/github/brofist-team/configuration)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brofist-team/configuration/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brofist-team/configuration/?branch=master)
-[![StyleCI](https://styleci.io/repos/{style_ci_id}/shield)](https://styleci.io/repos/{style_ci_id})
+[![StyleCI](https://styleci.io/repos/72840944/shield)](https://styleci.io/repos/72840944)
 
 Package information:
 
