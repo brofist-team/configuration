@@ -97,6 +97,7 @@ class ConfigurationTest extends PHPUnit_Framework_TestCase
                 'name'     => 'Other Name',
                 'lastName' => 'John',
             ],
+            'newKey' => 'foo',
         ];
 
         $expected = [
@@ -105,6 +106,7 @@ class ConfigurationTest extends PHPUnit_Framework_TestCase
                 'middleName' => 'Some Middle Name',
                 'lastName'   => 'John',
             ],
+            'newKey' => 'foo',
         ];
 
         $this->assertMerge($original, $other, $expected);

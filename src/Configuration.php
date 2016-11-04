@@ -33,7 +33,8 @@ class Configuration implements ConfigurationInterface
         $newConfig = $original;
 
         foreach ($other as $key => $value) {
-            $newConfig[$key] = $this->getMergedValue($newConfig[$key], $value);
+            $oldValue = isset($newConfig[$key]) ? $newConfig[$key] : null;
+            $newConfig[$key] = $this->getMergedValue($oldValue, $value);
         }
 
         return $newConfig;
